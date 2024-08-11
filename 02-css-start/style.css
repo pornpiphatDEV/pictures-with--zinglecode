@@ -1,0 +1,12 @@
+.box {
+  background-color: aquamarine;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 60px;
+}
+.text {
+  font-size: 30px;
+}

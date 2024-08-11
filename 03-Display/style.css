@@ -1,0 +1,18 @@
+.button {
+  color: wheat;
+  background-color: blueviolet;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+
+  /* display */
+  /* block แสดงผลเต็มพื้นที่ บรรทัด */
+  /* display: block;
+    width: 30%; */
+
+  /* display */
+  /* inline-block แสดงผลเต็มพื้นที่ บรรทัด  ให้อยู่บัยทัดเดียวกันได้ */
+  display: inline-block;
+  width: 30%;
+}

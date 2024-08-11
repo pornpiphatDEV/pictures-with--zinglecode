@@ -1,0 +1,17 @@
+.text-box {
+  color: #61c781;
+  background-color: antiquewhite;
+  /* เส้น */
+  border: 4px solid rgb(246, 194, 99);
+  /* เงา */
+  box-shadow: 4px 4px 8px 4px #0808d9;
+}
+
+.image {
+  /* กำหนดความกว้างแบบ ฟิกไม่ย่อขยายตาม ขนาดจะตาม px (หน่วย)*/
+  /* width: 500px; */
+
+  width: 100%;
+  max-width: 800px;
+  /* min-width: none; */
+}

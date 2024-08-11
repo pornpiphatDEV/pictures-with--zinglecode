@@ -1,0 +1,11 @@
+
+.box{
+    background-color: pink;
+    /* margin: 40px; */
+
+    /* margin กำหนดพื้นที่ว่างด้านนอก */
+    margin-bottom: 40px;
+
+      /* padding กำหนดพื้นที่ว่างด้านใน */
+    padding: 30px;
+}
