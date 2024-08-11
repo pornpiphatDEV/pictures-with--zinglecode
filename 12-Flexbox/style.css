@@ -1,0 +1,39 @@
+/* html,
+body {
+  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+} */
+
+.flexbox {
+  display: flex;
+  box-sizing: border-box;
+  background-color: aqua;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* justify จัดตามแก่นหลัก flexbox */
+  justify-content: center;
+
+  /* align-items จัดตามแก่นรอง flexbox */
+  align-items: flex-end;
+  
+  margin-left: -10px;
+  margin-left: -10px;
+}
+
+.item {
+  display: block;
+  box-sizing: border-box;
+  width: 33.33%;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+.content {
+  background-color: yellow;
+  border: 5px solid black;
+  padding: 16px;
+  /* text-align: center; */
+}
